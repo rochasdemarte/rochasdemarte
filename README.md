@@ -1,7 +1,7 @@
 ## Hi there! I'm Pedro.
 ##### Creative Developer . New Media Artist
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochasdemarte&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rochasdemarte&theme=dark&show_icons=true&count_private=true)
 
 <!--
 - 🔭 I’m currently working on ...
