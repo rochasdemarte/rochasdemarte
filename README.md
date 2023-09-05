@@ -3,7 +3,7 @@
 ##### Welcome, here you'll find some ideias, personal projects, maybe some knowledge to share and many tools that i've been spending time in.
 
 Be my client, contact me.
-<a href="https://pedro.art.br/"></a>
+<b><a href="https://pedro.art.br/">pedro.art.br</a></b>
 
 <!--
 <a href="https://www.linkedin.com/in/pedro-rocha-martin/">
